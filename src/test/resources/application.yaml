@@ -1,0 +1,4 @@
+spring:
+  distributelock:
+    address: redis://101.43.76.250:6380
+    password: 666668!
